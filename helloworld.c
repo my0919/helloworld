@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("welcom to the first C program!!!\n");
+    printf("welcome to the first C program!!!\n");
 }
